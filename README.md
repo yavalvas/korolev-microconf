@@ -14,3 +14,9 @@
 #### Start: 19:00
 #### Speaker: Nikita Shuklin
 #### Place: 21 conference room
+
+
+## 6.10.2016 Asynchronous Javascript
+#### Start: 19:00
+#### Speakers: Alexandr Yavorskiy, Andrey Ganyushkin
+#### Place: 21 conference room
